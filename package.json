@@ -16,7 +16,7 @@
         "bootstrap": "^4.3.1",
         "fusioncharts": "^3.14.0",
         "instagram-web-api": "^2.0.0",
-        "lodash": "^4.17.15",
+        "lodash": "^4.17.19",
         "ui-bootstrap4": "^3.0.6",
         "underscore": "^1.9.1"
     }
